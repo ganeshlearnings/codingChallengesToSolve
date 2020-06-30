@@ -1,0 +1,20 @@
+*********************************
+Arrays, Lists, Maps, Sets ,Stacks
+*********************************
+Move all zeros to end 1 0 0 8 3 7 0 0 3
+Key- One Pass Algorithm
+*********************************
+Sliding Window Technique For Sub Array Problems
+*********************************
+Quees, Tres, Heaps,Graphs
+*********************************
+Comparing two tress are same or not
+*********************************
+Algorithms
+Sorting,searching,binary Search
+*********************************
+Dynamic Programming,memorization,Greedy Algorithm,Recursion
+*********************************
+Graph Traversal, Breadth And depth Traversal
+*********************************
+Graphs Grouping
